@@ -1,4 +1,5 @@
-# business4s
+# Business4s
+![Discord](https://img.shields.io/discord/1240565362601230367?style=flat-square&logo=discord&link=https%3A%2F%2Fbit.ly%2Fbusiness4s-discord)
 
 Business4s is an organization intended to host projects adhering to the following design principles:
 * **Business Oriented** - Solving real world problems in a way that directly benefits business and their requirements.
