@@ -9,3 +9,6 @@ Projects you will find here will most likely adhere to the following desing prin
 * **Scala Code Driven** - Problems are solved using Scala language, meaning no XML, json or other formats that are typically present in similar tools.
   The code itself has to follow core Scala design principles, be functional, typesafe and leverage unique strengths of Scala, such as mixing functional and object oriented programming.
 * **Simple** - While the code might leverage more advanced Scala features, the projects should be predictable, easy to understand, have minimal API surface and generally be as non-magical as possible.
+
+
+See the [**Announcement**](https://medium.com/@w.pitula/announcing-business4s-a-new-value-proposition-for-scala-f44ed7ff5f28) for details.
