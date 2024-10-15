@@ -1,5 +1,5 @@
 # Business4s
-![Discord](https://img.shields.io/discord/1240565362601230367?style=flat-square&logo=discord&link=https%3A%2F%2Fbit.ly%2Fbusiness4s-discord)
+[![Discord](https://img.shields.io/discord/1240565362601230367?style=flat-square&logo=discord&link=https%3A%2F%2Fbit.ly%2Fbusiness4s-discord)](https://bit.ly/business4s-discord)
 
 Business4s is a community that tries to facilitate projects written in Scala that focus on solving business problems.  
 
@@ -12,3 +12,5 @@ Projects you will find here will most likely adhere to the following desing prin
 
 
 See the [**Announcement**](https://medium.com/@w.pitula/announcing-business4s-a-new-value-proposition-for-scala-f44ed7ff5f28) for details.
+
+Join us at [**Discord**](https://bit.ly/business4s-discord)!
